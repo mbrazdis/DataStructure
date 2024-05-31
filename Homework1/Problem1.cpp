@@ -1,4 +1,4 @@
-```cpp[
+
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -81,5 +81,4 @@ int main() {
     delete myList;
     return 0;
 }
-]
-```
+
